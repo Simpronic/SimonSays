@@ -52,5 +52,5 @@ Mkfile.old
 dkms.conf
 
 #build files
-build/
-debug/
+RT-STM32F401RE-NUCLEO64_group18/build/
+RT-STM32F401RE-NUCLEO64_group18/debug/
