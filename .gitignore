@@ -52,5 +52,5 @@ Mkfile.old
 dkms.conf
 
 #build files
-/build
-/debug
+build/
+debug/
